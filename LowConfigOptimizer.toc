@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: Low Config Optimizer
+## Notes: Auto adjust your resolution scale
+## Secure: 1
+## Author: Adrien Chaix
+## Version: 1.0
+## SavedVariables: LCOconfig
+LowConfigOptimizer.lua
+
